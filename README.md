@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AleishaCodes
-- 👀 I’m studying Mechanical Engineering
-- 🌱 I’m currently learning JavaScript
+- 🧩 I’m studying Mechanical Engineering
+- 🐍 I’m currently learning Python 
+- 👩‍🔬 My main interests are in Data Science
+- 🥧 I also enjoy creating with Raspberry Pi, yum!
 
 <!---
 AleishaCodes/AleishaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
